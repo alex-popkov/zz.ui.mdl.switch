@@ -1,0 +1,19 @@
+{
+	"name": "zz.ui.mdl.switch",
+	"version": "20160421.0.0",
+	"description": "module zz.ui.mdl.switch for zz project",
+	"author": {
+		"name": "Popkov Alexander",
+		"email": "popkov.aleksander@gmail.com"
+	},
+	"license": "Apache-2.0",
+    "homepage": "http://imazzine.com/idl/zz.ui.mdl.switch/",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/alex-popkov/zz.ui.mdl.switch.git"
+	},
+	"dependencies": {
+
+	    "imazzine-developer-kit": ""
+	}
+}
